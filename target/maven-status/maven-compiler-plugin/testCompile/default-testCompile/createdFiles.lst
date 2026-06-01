@@ -1,5 +1,7 @@
-TestTicTacToeCell.class
-TestGameAdvanced.class
-TestGame.class
-TestPlayer.class
-TestUtility.class
+com\mycompany\app\TestGame.class
+com\mycompany\app\TestTicTacToePanelComprehensive.class
+com\mycompany\app\TestGameAdvanced.class
+com\mycompany\app\TestTicTacToeCell.class
+com\mycompany\app\TestUtility.class
+com\mycompany\app\TestGameStrategies.class
+com\mycompany\app\TestPlayer.class
